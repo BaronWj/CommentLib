@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CommentLib_Example' do
+  pod 'CommentLib', :path => '../'
+
+  target 'CommentLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
