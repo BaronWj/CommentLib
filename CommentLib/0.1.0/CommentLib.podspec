@@ -24,7 +24,7 @@ TODO: ios项目封装基础库.
   s.homepage         = 'https://github.com/BaronWj/CommentLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'BaronWj' => 'pwj0306@yeah.cn' }
+  s.author           = { 'BaronWj' => 'panweijie@okjiaoyu.cn' }
   s.source           = { :git => 'https://github.com/BaronWj/CommentLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
