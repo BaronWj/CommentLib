@@ -6,6 +6,8 @@ target 'CommentLib_Example' do
   target 'CommentLib_Tests' do
     inherit! :search_paths
 
-    
+pod 'AFNetworking', '~> 3.0.1'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'SDWebImage', '~> 3.7.2'
   end
 end
